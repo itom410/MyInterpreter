@@ -1,0 +1,3 @@
+[submodule "ChatFeature"]
+	path = ChatFeature
+	url = https://gitlab.com/hoangcuong9331/chatapp
